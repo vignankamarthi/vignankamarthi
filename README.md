@@ -1,4 +1,4 @@
-# Hello! I'm Vignan Kamarthi 👋  
+Vignan Kamarthi 
 
 **CS+AI student at Northeastern University** | AI/ML Researcher | Software Engineer  
 
