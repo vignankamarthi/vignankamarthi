@@ -7,5 +7,4 @@ I specialize in **Artificial Intelligence**, **Machine Learning**, and **Softwar
 📫 **Reach me:**  
 - ✉️ Email: [vignankamarthi@gmail.com](mailto:vignankamarthi@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/vignan-kamarthi](https://www.linkedin.com/in/vignan-kamarthi/)  
-
-🔍 **Seeking Co-Op (July–Dec 2025)**  
+Incoming AI SWE @ Boston Engineering
