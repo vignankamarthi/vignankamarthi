@@ -1,6 +1,6 @@
 Vignan Kamarthi  
 
-**CS+AI student at Northeastern University** | AI/ML Researcher | Software Engineer  
+**Incoming AI SWE @ Boston Engineering | CS+AI student at Northeastern University** | AI/ML Researcher | Software Engineer
 
 I specialize in **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**, with experience in **LLMs/NLP principles, scalable AI systems, and full-stack development**. I am **currently working on** AI research at Northeastern University, **optimizing** efficient model architectures and AI-driven applications. I am **passionate about** building intelligent systems, automation, and software solutions.  
 
