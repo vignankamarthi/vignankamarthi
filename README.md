@@ -7,7 +7,7 @@ Published at ICMI 2025 ([paper](https://camps.aptaracorp.com//ACM_PMS/PMS/ACM/IC
 ## Research & Code
 Working on multi-agent AI systems, knowledge-augmented generation, and multimodal machine learning. Recent projects include IMPEL: production-grade LangGraph orchestration for course recommendations; and AI4Pain: ensemble learning for pain classification from physiological signals.
 
-**Technical focus**: Multi-agent architectures, RAG/KAG pipelines, graph-based collaborative filtering, time-series feature engineering
+**Technical focus**: Multimodal machine learning, ensemble learning, Agentic systems (IMPEL), multi-agent architectures, RAG/KAG pipelines, time-series feature engineering
 
 ## Tech Stack
 
