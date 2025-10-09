@@ -1,6 +1,6 @@
 # Vignan Kamarthi
 
-**AI/ML Researcher | CS+AI @ Northeastern**
+**AI/ML Researcher | CS+AI @ Northeastern | SWE Co-Op @ Boston Engineering**
 
 Published at ICMI 2025 ([paper](https://camps.aptaracorp.com//ACM_PMS/PMS/ACM/ICMICOMPANION25/17/da0e2c86-83a3-11f0-957d-16ffd757ba29/OUT/icmicompanion25-17.html))
 
