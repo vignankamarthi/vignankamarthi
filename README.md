@@ -4,7 +4,7 @@
 
 I build AI systems across the full stack—from low-level embedded code to high-level intelligent behavior. My work spans multi-agent orchestration, ensemble learning, and knowledge-augmented generation.
 
-Published at [ACM ICMI 2025](https://dl.acm.org/doi/10.1145/3678957.3688865) with research on multimodal pain classification using physiological signals.
+Published at [ACM ICMI 2025](https://dl.acm.org/doi/10.1145/3747327.3764784) with research on multimodal pain classification using physiological signals.
 
 ## Recent Work
 
