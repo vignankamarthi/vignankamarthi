@@ -1,28 +1,26 @@
 # Vignan Kamarthi
 
-**AI/ML Researcher | CS+AI @ Northeastern | SWE Co-Op @ Boston Engineering**
+**Published AI Researcher (ACM '25) | CS+AI @ Northeastern | Software Engineer @ Boston Engineering**
 
-Published at ICMI 2025 ([paper](https://camps.aptaracorp.com//ACM_PMS/PMS/ACM/ICMICOMPANION25/17/da0e2c86-83a3-11f0-957d-16ffd757ba29/OUT/icmicompanion25-17.html))
+I build AI systems across the full stack—from low-level embedded code to high-level intelligent behavior. My work spans multi-agent orchestration, ensemble learning, and knowledge-augmented generation.
 
-## Research & Code
-Working on multi-agent AI systems, multimodal machine learning, and knowledge-augmented generation. Recent projects include IMPEL: production-grade LangGraph orchestration for course recommendations; and AI4Pain: ensemble learning for pain classification from physiological signals.
+Published at [ACM ICMI 2025](https://dl.acm.org/doi/10.1145/3678957.3688865) with research on multimodal pain classification using physiological signals.
 
-**Technical focus**: Multimodal machine learning, ensemble learning, Agentic systems (IMPEL), multi-agent architectures, RAG/KAG pipelines, time-series feature engineering
+## Recent Work
+
+**Multi-Agent AI Systems**: Production-grade LangGraph orchestration with hybrid database architecture (MySQL + Neo4j + FAISS) for intelligent query routing and collaborative filtering
+
+**Multimodal ML Research**: Ensemble learning achieving 1.0 binary accuracy on pain classification from physiological signals (EDA, BVP, RESP) using Catch22 feature extraction
+
+**Embedded Systems Engineering**: Zephyr RTOS migration, static analysis integration, and acoustic communications at Boston Engineering
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**Languages**: Python, C/C++, Java, TypeScript, SQL  
+**AI/ML**: PyTorch, LangGraph, Scikit-Learn, Hugging Face, FAISS  
+**Infrastructure**: Docker, Neo4j, MySQL, Git, CI/CD  
+**Frontend**: React, Node.js, Streamlit
 
 ---
 
-📫 **vignankamarthi@gmail.com** | [LinkedIn](https://linkedin.com/in/vignan-kamarthi) | [ORCID](https://orcid.org/0009-0005-9823-6613)
+📫 vignankamarthi@gmail.com | [LinkedIn](https://www.linkedin.com/in/vignan-kamarthi/) | [ORCID](https://orcid.org/0009-0005-9823-6613)
