@@ -1,6 +1,6 @@
 # Vignan Kamarthi
 
-**Published AI Researcher (ACM '25) | CS+AI @ Northeastern | Software Engineer @ Boston Engineering**
+**Published AI Researcher (ACM '25) | Systems Engineer @ Boston Engineering** | CS+AI @ Northeastern
 
 I build AI systems across the full stack—from low-level embedded code to high-level intelligent behavior. My work spans multi-agent orchestration, ensemble learning, and knowledge-augmented generation.
 
