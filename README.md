@@ -1,22 +1,29 @@
-## Vignan Kamarthi
+# Vignan Kamarthi
 
-AI/ML Research Engineer | Embedded Systems Engineer @ Boston Engineering
+Computer Vision | Robotics Perception | Biomedical ML | Embedded Systems
 
-I build production AI systems across the full stack—from low-level embedded code to high-level intelligent behavior. My work spans multi-agent orchestration, ensemble learning, and knowledge-augmented generation.
+## Publications
 
-Published at **ACM ICMI 2025** with research on multimodal pain classification using physiological signals.
+**ACM ICMI 2025** -- 1.000 binary accuracy on pain classification from multimodal physiological signals
 
-### Recent Work
+**ASEE 2026** -- Multi-agent orchestration for context-aware intelligence systems
 
-**Multi-Agent AI Systems**: Production-grade LangGraph orchestration with hybrid database architecture (MySQL + Neo4j + FAISS) for intelligent query routing and collaborative filtering
+## Research
 
-**Multimodal ML Research**: Ensemble learning achieving 1.0 binary accuracy on pain classification from physiological signals (EDA, BVP, RESP) using Catch22 feature extraction
+**Computer Vision** (SMILE Lab, Prof. Fu) -- FFN reproduction (CVPR 2023), temporal frequency deviation in video-language models. AJC Merit Research Scholar.
 
-**Embedded Systems Engineering**: Zephyr RTOS hardware migration, static analysis integration, and acoustic communications at Boston Engineering
+**Robotics Perception** (RIVeR Lab, Prof. Padir) -- Vision-only failure detection for robotic manipulation. YOLO OBB + unsupervised anomaly detection.
 
-### Tech Stack
+**Biomedical ML** (Sensing & Innovation Lab, Prof. Radhakrishnan) -- Ordinal pattern pain classification, cuffless BP estimation from PPG. PEAK Summit Fellow.
 
-**Languages**: Python, C/C++, Rust, TypeScript, SQL  
-**AI/ML**: PyTorch, LangGraph, Scikit-Learn, Hugging Face, FAISS  
-**Infrastructure**: Docker, Neo4j, MySQL, Git, CI/CD, Zephyr RTOS  
-**Frontend**: React, Node.js, Streamlit
+## Engineering
+
+**Embedded Systems** (Boston Engineering) -- Zephyr RTOS driver refactoring across Iridium satellite comms, GPS, WiFi. Acoustic modem integration. Federal contract.
+
+## Stack
+
+`Python` `C/C++` `Rust` `TypeScript` `SQL`
+
+`PyTorch` `HuggingFace` `Scikit-Learn` `XGBoost` `LightGBM` `FAISS`
+
+`Claude Code` `Docker` `ROS2` `Zephyr RTOS` `Neo4j` `SLURM`
