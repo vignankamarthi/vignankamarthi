@@ -12,11 +12,11 @@ Computer vision, robotics, and biomedical ML research at Northeastern University
 
 ## Publications
 
-**ACII 2026, PAAIn Workshop** -- Three-class pain localization from peripheral autonomic signals. First author.
+**ACII 2026, PAAIn Workshop** -- Three-class pain localization from peripheral autonomic signals. First author. [DOI](https://doi.org/10.1109/aciiw71585.2026.11712083)
 
 **ASEE 2026** -- Multi-agent course recommendation over a knowledge graph. Primary codebase author. [DOI](https://doi.org/10.18260/1-2--60202)
 
-**ACM ICMI 2025** -- Pain classification from physiological signals, 1.000 binary accuracy under leave-one-subject-out validation.
+**ACM ICMI 2025** -- Pain classification from physiological signals, 1.000 binary accuracy under leave-one-subject-out validation. [DOI](https://doi.org/10.1145/3747327.3764784)
 
 ## Engineering
 
